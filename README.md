@@ -1,11 +1,14 @@
 ## Hi there 👋
 
-I'm Jari, final year computer science student, and avid formula 1 fan 🏎️
+I'm Jari, a final year computer science student at the Vrije Universiteit Amsterdam, and avid formula 1 fan 🏎️.
 
 ## Projects
-- **BoodschappenWijzer**: An upcoming application that scrapes dutch supermarket stores, and compares the prices to determine which store is the cheapest to purchase your groceries at.
-- **TRS Bot**: My own Discord bot written in Java using JDA (Java Discord API). I mainly implement random features in here that are fun to use, such as games like Yahtzee & Tic Tac Toe, a wikipedia lookup and random page displayer, or  using it to host a World Cup Prediction tournament!
-- **TRS Smp Bridge**: A small bridge plugin between Discord and Minecraft, allowing a 2-way communication channel, and some server management tools such as whitelisting done through Discord.
+#### BoodschappenWijzer
+An upcoming application that scrapes dutch supermarket stores, and compares the prices to determine which store is the cheapest to purchase your groceries at.
+#### TRS Bot 
+My own Discord bot written in Java using JDA (Java Discord API). I mainly implement random features in here that are fun to use, such as games like Yahtzee & Tic Tac Toe, a wikipedia lookup and random page displayer, or  using it to host a World Cup Prediction tournament!
+#### TRS Smp Bridge
+A small bridge plugin between Discord and Minecraft, allowing a 2-way communication channel, and some server management tools such as whitelisting done through Discord.
 
 ### Some Stats
 ![](https://komarev.com/ghpvc/?username=JariRoossien&color=brightgreen)
